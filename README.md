@@ -11,7 +11,7 @@
 
 ## 💻 Lenguajes y Tecnologías
 
-- **Lenguajes de Programación:** Python, Bash
+- **Lenguajes de Programación:** HTML, CSS, PHP, JS, React, ...
 - **Ciberseguridad:** Pentesting, Análisis de Vulnerabilidades
 - **Herramientas de Seguridad:** Burp Suite, Nmap, Wfuzz, Hydra, ...
 
