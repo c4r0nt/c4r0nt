@@ -1,4 +1,4 @@
-## 🧑‍🎓 Acerca de mí
+## 👩💼 Acerca de mí
 
 ¡Hola! Soy c4r0nt, una entusiasta de la ciberseguridad y estudiante de administracion en sistemas informaticos en red en una FP de grado superior. Mi pasión por la ciberseguridad me ha llevado a sumergirme en el mundo del pentesting. Mi objetivo es seguir avanzando en mi carrera en ciberseguridad y obtener las certificaciones como eJPTv2, eWPT, EWPT y eCPPTv2 en el futuro.
 
