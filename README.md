@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Ane+%F0%9F%91%8B;Cybersecurity+Enthusiast+%26+Developer;Junior+Consultant+%40+Thales;root%40c4r0nt%3A~%23+whoami" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Ane+%F0%9F%91%8B;Cybersecurity+Enthusiast+%26+Developer;Always+learning+something+new;root%40c4r0nt%3A~%23+whoami" alt="Typing SVG" />
 
 <br>
 
@@ -15,12 +15,11 @@
 ---
 
 ```bash
-┌──(ane㉿thales)-[~]
+┌──(ane㉿kali)-[~]
 └─$ whoami
 ```
 
 > 👋  **Ane Fernández de Retana** — Cybersecurity Enthusiast & Developer.
-> Actualmente **Junior Consultant en Thales Cybersecurity Services** 🛡️.
 > Mi mundo es la **ciberseguridad** y el **desarrollo**: entender cómo se rompen
 > las cosas para saber cómo protegerlas.
 > Aprendiendo, rompiendo y construyendo — en ese orden 😉.
@@ -32,14 +31,13 @@
 ```python
 class Ane:
     def __init__(self):
-        self.rol          = "Junior Consultant @ Thales Cybersecurity"
         self.perfil       = "Cybersecurity Enthusiast & Developer"
         self.enfoque      = ["seguridad", "desarrollo", "automatización"]
         self.aprendiendo  = "algo nuevo cada día"
         self.mentalidad   = "Think like an attacker, build like a dev 🧠"
 ```
 
-- 🛡️  **Ciberseguridad** — de la teoría a la práctica en un entorno profesional.
+- 🛡️  **Ciberseguridad** — de la teoría a la práctica.
 - 💻  **Desarrollo** — construyo, no solo audito.
 - 📚  **Aprendizaje continuo** — nuevas técnicas y herramientas.
 - 🐍  **Automatización** — scripting en Python & Bash para no repetir tareas.
@@ -50,14 +48,14 @@ class Ane:
 
 <div align="center">
 
-**Lenguajes & Desarrollo**
+**Stack del portfolio**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Ciberseguridad**
 
@@ -67,21 +65,6 @@ class Ane:
 ![Wfuzz](https://img.shields.io/badge/Wfuzz-990000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
-</div>
-
----
-
-## 📊 `./stats --profile`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=c4r0nt&show_icons=true&theme=chartreuse&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41&text_color=FFFFFF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4r0nt&layout=compact&theme=chartreuse&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=c4r0nt&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 </div>
 
@@ -102,7 +85,7 @@ class Ane:
 <div align="center">
 
 ```bash
-┌──(ane㉿thales)-[~]
+┌──(ane㉿kali)-[~]
 └─$ echo "Access granted. Happy hacking 🔓"
 ```
 
