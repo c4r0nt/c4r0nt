@@ -94,38 +94,6 @@ class Ane:
 
 ---
 
-## 🏆 `cat certificaciones.txt`
-
-<div align="center">
-
-> 🎯 **En el punto de mira / en progreso**
-
-![eJPTv2](https://img.shields.io/badge/eJPTv2-Roadmap-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
-![eWPT](https://img.shields.io/badge/eWPT-Roadmap-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
-![eWPTX](https://img.shields.io/badge/eWPTX-Roadmap-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
-![eCPPTv2](https://img.shields.io/badge/eCPPTv2-Roadmap-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
-
-</div>
-
----
-
-## 📊 `./stats --profile`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=c4r0nt&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
-<div align="center">
-
-<!-- 🐍 La serpiente necesita un GitHub Action (ver nota al final del chat) -->
-<img src="https://raw.githubusercontent.com/c4r0nt/c4r0nt/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
----
-
 ## 📡 `./contact --connect`
 
 <div align="center">
