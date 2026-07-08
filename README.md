@@ -32,9 +32,12 @@
 class Ane:
     def __init__(self):
         self.perfil       = "Cybersecurity Enthusiast & Developer"
-        self.enfoque      = ["seguridad", "desarrollo", "automatización"]
+        self.enfoque      = ["seguridad ofensiva", "desarrollo web", "automatización"]
         self.aprendiendo  = "algo nuevo cada día"
         self.mentalidad   = "Think like an attacker, build like a dev 🧠"
+
+    def objetivo(self):
+        return "Romper, entender y proteger 🔐"
 ```
 
 - 🛡️  **Ciberseguridad** — de la teoría a la práctica.
@@ -48,13 +51,31 @@ class Ane:
 
 <div align="center">
 
-**Stack del portfolio**
+**Lenguajes**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend & Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**DevOps & Herramientas**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Ciberseguridad**
@@ -62,9 +83,44 @@ class Ane:
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wfuzz](https://img.shields.io/badge/Wfuzz-990000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-D71920?style=for-the-badge&logo=sqlite&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-2C2C2C?style=for-the-badge&logo=hackaday&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 `cat certificaciones.txt`
+
+<div align="center">
+
+> 🎯 **En el punto de mira / en progreso**
+
+![eJPTv2](https://img.shields.io/badge/eJPTv2-Roadmap-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
+![eWPT](https://img.shields.io/badge/eWPT-Roadmap-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
+![eWPTX](https://img.shields.io/badge/eWPTX-Roadmap-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
+![eCPPTv2](https://img.shields.io/badge/eCPPTv2-Roadmap-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=1a1a1a)
+
+</div>
+
+---
+
+## 📊 `./stats --profile`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=c4r0nt&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+
+</div>
+
+<div align="center">
+
+<!-- 🐍 La serpiente necesita un GitHub Action (ver nota al final del chat) -->
+<img src="https://raw.githubusercontent.com/c4r0nt/c4r0nt/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
